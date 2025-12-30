@@ -36,5 +36,3 @@ The experiments demonstrate that:
 
 ---
 
-## Repository Structure
-
